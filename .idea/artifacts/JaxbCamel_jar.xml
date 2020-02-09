@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JaxbCamel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JaxbCamel_jar</output-path>
+    <root id="archive" name="JaxbCamel.jar">
+      <element id="module-output" name="JaxbCamel" />
+    </root>
+  </artifact>
+</component>
